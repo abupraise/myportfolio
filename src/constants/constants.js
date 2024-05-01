@@ -21,7 +21,7 @@ export const projects = [
     title: 'iPhone 15 Pro',
     description: "I made a copy of the iPhone 15 Pro specifications website. It looks just like the original and works smoothly. This project shows my ability to create detailed and interactive websites.",
       image: '/images/3.png',
-      tags: ['Next.js', 'Tailwind', 'Three.js', 'Framer Motion'],
+      tags: ['Next.js', 'Three.js', 'Framer Motion'],
     source: 'https://apple-iphone-clone-five.vercel.app/',
     visit: 'https://google.com',
     id: 2,
