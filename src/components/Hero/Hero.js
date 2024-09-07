@@ -15,7 +15,7 @@ const Hero = (props) => (
         <SectionText>
         My name is Praise Abu. A software developer specializing in full-stack development, I deliver interactive, user-centric software applications tailored to unique needs & problems.
         </SectionText>
-        <Button onClick={() => window.open('https://docs.google.com/document/d/1lY--2_7uuNc0pINEwss2wiH2ngcrXYoORVW9OkTj2B4/edit?usp=sharing', '_blank')}>View Resume</Button>
+        <Button onClick={() => window.open('https://docs.google.com/document/d/1NdI1VgC6PK8cZJN_yRunYQJYgtGxkxRgFyAhyL4mNIg/edit?usp=sharing', '_blank')}>View Resume</Button>
       </LeftSection>
     </Section>
   </>
